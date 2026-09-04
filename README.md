@@ -85,10 +85,6 @@ Reference architecture diagrams and screenshots are available in the [`assets/`]
 
 ---
 
-## 📄 License
-
-This project is licensed under the Apache License 2.0.
-
 ---
 
 ## 🙋 About
