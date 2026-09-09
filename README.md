@@ -85,10 +85,14 @@ Reference architecture diagrams and screenshots are available in the [`assets/`]
 
 ---
 
+## 📄 License
 
+This project is licensed under the Apache License 2.0.
 
 ---
 
 ## 🙋 About
 
 Built as a hands-on DevOps/Cloud portfolio project covering CI/CD, Infrastructure as Code, container orchestration, and DevSecOps practices on AWS.
+
+**Author:** Md Aabid Hussain
